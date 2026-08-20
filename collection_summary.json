@@ -1,0 +1,66 @@
+{
+  "source_url": "https://api.github.com/search/repositories?q=machine+learning&sort=stars&order=desc&per_page=100",
+  "retrieved_at_utc": "2026-08-20T19:10:23.366425+00:00",
+  "raw_records": 100,
+  "cleaned_records": 100,
+  "initial_shape": [
+    100,
+    83
+  ],
+  "missing_values_before": {
+    "name": 0,
+    "owner": 0,
+    "language": 23,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "created_at": 0,
+    "updated_at": 0,
+    "license": 22
+  },
+  "missing_values_after": {
+    "name": 0,
+    "owner": 0,
+    "language": 0,
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0,
+    "open_issues": 0,
+    "created_date": 0,
+    "updated_date": 0,
+    "license": 0
+  },
+  "duplicate_rows_before": 0,
+  "duplicate_rows_after": 0,
+  "duplicates_removed": 0,
+  "invalid_date_rows_dropped": 0,
+  "final_columns": [
+    "name",
+    "owner",
+    "language",
+    "stars",
+    "forks",
+    "watchers",
+    "open_issues",
+    "created_date",
+    "updated_date",
+    "license"
+  ],
+  "missing_value_policy": {
+    "owner": "Unknown",
+    "language": "Unknown",
+    "license": "No license",
+    "numeric_metrics": 0,
+    "dates": "Rows with invalid or missing dates removed"
+  },
+  "verification": {
+    "reloaded_successfully": true,
+    "reloaded_shape": [
+      100,
+      10
+    ],
+    "reloaded_missing_values": 0,
+    "file": "github_projects.csv"
+  }
+}

@@ -1,0 +1,12 @@
+[1;37m{[m
+  [1;34m"defaultBranchRef"[m[1;37m:[m [1;37m{[m
+    [1;34m"name"[m[1;37m:[m [32m"main"[m
+  [1;37m}[m[1;37m,[m
+  [1;34m"isPrivate"[m[1;37m:[m [33mfalse[m[1;37m,[m
+  [1;34m"nameWithOwner"[m[1;37m:[m [32m"omarelsayed0101/level3-project2-machine-learning-repositories"[m[1;37m,[m
+  [1;34m"url"[m[1;37m:[m [32m"https://github.com/omarelsayed0101/level3-project2-machine-learning-repositories"[m
+[1;37m}[m
+
+$ git remote -v
+origin	https://github.com/omarelsayed0101/level3-project2-machine-learning-repositories.git (fetch)
+origin	https://github.com/omarelsayed0101/level3-project2-machine-learning-repositories.git (push)

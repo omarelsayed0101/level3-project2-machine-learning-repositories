@@ -1,0 +1,2071 @@
+{
+  "more_than_10000_stars": [
+    {
+      "name": "tensorflow",
+      "owner": "tensorflow",
+      "stars": 197103,
+      "language": "C++"
+    },
+    {
+      "name": "transformers",
+      "owner": "huggingface",
+      "stars": 164278,
+      "language": "Python"
+    },
+    {
+      "name": "ML-For-Beginners",
+      "owner": "microsoft",
+      "stars": 89619,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "funNLP",
+      "owner": "fighting41love",
+      "stars": 82567,
+      "language": "Python"
+    },
+    {
+      "name": "awesome-machine-learning",
+      "owner": "josephmisiti",
+      "stars": 74087,
+      "language": "Python"
+    },
+    {
+      "name": "scikit-learn",
+      "owner": "scikit-learn",
+      "stars": 66981,
+      "language": "Python"
+    },
+    {
+      "name": "gradio",
+      "owner": "gradio-app",
+      "stars": 43393,
+      "language": "Python"
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "owner": "ashishpatel26",
+      "stars": 36415,
+      "language": "Unknown"
+    },
+    {
+      "name": "C-Plus-Plus",
+      "owner": "TheAlgorithms",
+      "stars": 34588,
+      "language": "C++"
+    },
+    {
+      "name": "netron",
+      "owner": "lutzroeder",
+      "stars": 33370,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ML-From-Scratch",
+      "owner": "eriklindernoren",
+      "stars": 32499,
+      "language": "Python"
+    },
+    {
+      "name": "applied-ml",
+      "owner": "eugeneyan",
+      "stars": 30069,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-software-engineers",
+      "owner": "ZuzooVn",
+      "stars": 28864,
+      "language": "Unknown"
+    },
+    {
+      "name": "linkedin-skill-assessments-quizzes",
+      "owner": "Ebazhanov",
+      "stars": 28803,
+      "language": "Python"
+    },
+    {
+      "name": "cs249r_book",
+      "owner": "harvard-edge",
+      "stars": 27963,
+      "language": "Python"
+    },
+    {
+      "name": "shap",
+      "owner": "shap",
+      "stars": 25693,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "homemade-machine-learning",
+      "owner": "trekhleb",
+      "stars": 24771,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Paddle",
+      "owner": "PaddlePaddle",
+      "stars": 24059,
+      "language": "C++"
+    },
+    {
+      "name": "best-of-ml-python",
+      "owner": "lukasmasuch",
+      "stars": 23721,
+      "language": "Unknown"
+    },
+    {
+      "name": "C",
+      "owner": "TheAlgorithms",
+      "stars": 22332,
+      "language": "C"
+    },
+    {
+      "name": "onnx",
+      "owner": "onnx",
+      "stars": 21337,
+      "language": "Python"
+    },
+    {
+      "name": "rasa",
+      "owner": "RasaHQ",
+      "stars": 21296,
+      "language": "Python"
+    },
+    {
+      "name": "video2x",
+      "owner": "k4yt3x",
+      "stars": 20997,
+      "language": "C++"
+    },
+    {
+      "name": "awesome-production-machine-learning",
+      "owner": "EthicalML",
+      "stars": 20856,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-trading",
+      "owner": "stefan-jansen",
+      "stars": 20558,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "stanford-cs-229-machine-learning",
+      "owner": "afshinea",
+      "stars": 20133,
+      "language": "Unknown"
+    },
+    {
+      "name": "ml-agents",
+      "owner": "Unity-Technologies",
+      "stars": 19640,
+      "language": "C#"
+    },
+    {
+      "name": "LightGBM",
+      "owner": "lightgbm-org",
+      "stars": 18701,
+      "language": "C++"
+    },
+    {
+      "name": "ml-engineering",
+      "owner": "stas00",
+      "stars": 18667,
+      "language": "Python"
+    },
+    {
+      "name": "Machine-Learning-Tutorials",
+      "owner": "ujjwalkarn",
+      "stars": 18119,
+      "language": "Unknown"
+    },
+    {
+      "name": "ML-NLP",
+      "owner": "NLP-LOVE",
+      "stars": 17795,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "brpc",
+      "owner": "apache",
+      "stars": 17585,
+      "language": "C++"
+    },
+    {
+      "name": "ML-YouTube-Courses",
+      "owner": "dair-ai",
+      "stars": 17379,
+      "language": "Unknown"
+    },
+    {
+      "name": "numpy-ml",
+      "owner": "ddbourgin",
+      "stars": 16333,
+      "language": "Python"
+    },
+    {
+      "name": "transformers.js",
+      "owner": "huggingface",
+      "stars": 16262,
+      "language": "JavaScript"
+    },
+    {
+      "name": "mml-book.github.io",
+      "owner": "mml-book",
+      "stars": 15900,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "kubeflow",
+      "owner": "kubeflow",
+      "stars": 15824,
+      "language": "Unknown"
+    },
+    {
+      "name": "cheatsheets-ai",
+      "owner": "kailashahirwar",
+      "stars": 15428,
+      "language": "Unknown"
+    },
+    {
+      "name": "ggml",
+      "owner": "ggml-org",
+      "stars": 15211,
+      "language": "C++"
+    },
+    {
+      "name": "Qix",
+      "owner": "ty4z2008",
+      "stars": 15190,
+      "language": "Unknown"
+    },
+    {
+      "name": "imgaug",
+      "owner": "aleju",
+      "stars": 14739,
+      "language": "Python"
+    },
+    {
+      "name": "bullet3",
+      "owner": "bulletphysics",
+      "stars": 14683,
+      "language": "C++"
+    },
+    {
+      "name": "ChatterBot",
+      "owner": "gunthercox",
+      "stars": 14509,
+      "language": "Python"
+    },
+    {
+      "name": "dlib",
+      "owner": "davisking",
+      "stars": 14432,
+      "language": "C++"
+    },
+    {
+      "name": "nni",
+      "owner": "microsoft",
+      "stars": 14363,
+      "language": "Python"
+    },
+    {
+      "name": "mit-deep-learning-book-pdf",
+      "owner": "janishar",
+      "stars": 14202,
+      "language": "Java"
+    },
+    {
+      "name": "ivy",
+      "owner": "unifyai",
+      "stars": 14171,
+      "language": "Python"
+    },
+    {
+      "name": "handson-ml3",
+      "owner": "ageron",
+      "stars": 13961,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "machine-learning-zoomcamp",
+      "owner": "DataTalksClub",
+      "stars": 13960,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "tvm",
+      "owner": "apache",
+      "stars": 13671,
+      "language": "Python"
+    },
+    {
+      "name": "Ai-Learn",
+      "owner": "tangyudi",
+      "stars": 13272,
+      "language": "Unknown"
+    },
+    {
+      "name": "deep-learning-drizzle",
+      "owner": "kmario23",
+      "stars": 12933,
+      "language": "HTML"
+    },
+    {
+      "name": "machine-learning-interview",
+      "owner": "khangich",
+      "stars": 12784,
+      "language": "Unknown"
+    },
+    {
+      "name": "python-machine-learning-book",
+      "owner": "rasbt",
+      "stars": 12640,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "predictionio",
+      "owner": "apache",
+      "stars": 12519,
+      "language": "Scala"
+    },
+    {
+      "name": "lime",
+      "owner": "marcotcr",
+      "stars": 12165,
+      "language": "JavaScript"
+    },
+    {
+      "name": "cleanlab",
+      "owner": "cleanlab",
+      "stars": 11630,
+      "language": "Python"
+    },
+    {
+      "name": "dive-into-machine-learning",
+      "owner": "dive-into-machine-learning",
+      "stars": 11391,
+      "language": "Unknown"
+    },
+    {
+      "name": "MLAlgorithms",
+      "owner": "rushter",
+      "stars": 11168,
+      "language": "Python"
+    },
+    {
+      "name": "turicreate",
+      "owner": "apple",
+      "stars": 11160,
+      "language": "C++"
+    },
+    {
+      "name": "amazon-sagemaker-examples",
+      "owner": "aws",
+      "stars": 10979,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "A-Curated-List-of-ML-System-Design-Case-Studies",
+      "owner": "Engineer1999",
+      "stars": 10947,
+      "language": "Unknown"
+    },
+    {
+      "name": "dolly",
+      "owner": "databrickslabs",
+      "stars": 10804,
+      "language": "Python"
+    },
+    {
+      "name": "doccano",
+      "owner": "doccano",
+      "stars": 10750,
+      "language": "Python"
+    },
+    {
+      "name": "mlcourse.ai",
+      "owner": "Yorko",
+      "stars": 10690,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-systems-design",
+      "owner": "chiphuyen",
+      "stars": 10535,
+      "language": "HTML"
+    },
+    {
+      "name": "Machine-Learning",
+      "owner": "Jack-Cherish",
+      "stars": 10371,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-notes",
+      "owner": "roboticcam",
+      "stars": 10336,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "3D-Machine-Learning",
+      "owner": "timzhang642",
+      "stars": 10192,
+      "language": "Unknown"
+    },
+    {
+      "name": "tpot",
+      "owner": "EpistasisLab",
+      "stars": 10051,
+      "language": "Jupyter Notebook"
+    }
+  ],
+  "names_containing_machine": [
+    {
+      "name": "awesome-machine-learning",
+      "owner": "josephmisiti",
+      "stars": 74087,
+      "language": "Python"
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "owner": "ashishpatel26",
+      "stars": 36415,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-software-engineers",
+      "owner": "ZuzooVn",
+      "stars": 28864,
+      "language": "Unknown"
+    },
+    {
+      "name": "homemade-machine-learning",
+      "owner": "trekhleb",
+      "stars": 24771,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "awesome-production-machine-learning",
+      "owner": "EthicalML",
+      "stars": 20856,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-trading",
+      "owner": "stefan-jansen",
+      "stars": 20558,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "stanford-cs-229-machine-learning",
+      "owner": "afshinea",
+      "stars": 20133,
+      "language": "Unknown"
+    },
+    {
+      "name": "Machine-Learning-Tutorials",
+      "owner": "ujjwalkarn",
+      "stars": 18119,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-zoomcamp",
+      "owner": "DataTalksClub",
+      "stars": 13960,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "machine-learning-interview",
+      "owner": "khangich",
+      "stars": 12784,
+      "language": "Unknown"
+    },
+    {
+      "name": "python-machine-learning-book",
+      "owner": "rasbt",
+      "stars": 12640,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "dive-into-machine-learning",
+      "owner": "dive-into-machine-learning",
+      "stars": 11391,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-systems-design",
+      "owner": "chiphuyen",
+      "stars": 10535,
+      "language": "HTML"
+    },
+    {
+      "name": "Machine-Learning",
+      "owner": "Jack-Cherish",
+      "stars": 10371,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-notes",
+      "owner": "roboticcam",
+      "stars": 10336,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "3D-Machine-Learning",
+      "owner": "timzhang642",
+      "stars": 10192,
+      "language": "Unknown"
+    },
+    {
+      "name": "machinelearning",
+      "owner": "dotnet",
+      "stars": 9350,
+      "language": "C#"
+    },
+    {
+      "name": "machine_learning_examples",
+      "owner": "lazyprogrammer",
+      "stars": 8911,
+      "language": "Python"
+    },
+    {
+      "name": "state-of-the-art-result-for-machine-learning-problems",
+      "owner": "RedditSota",
+      "stars": 8895,
+      "language": "Unknown"
+    },
+    {
+      "name": "financial-machine-learning",
+      "owner": "firmai",
+      "stars": 8753,
+      "language": "Python"
+    },
+    {
+      "name": "machinelearning",
+      "owner": "ljpzzz",
+      "stars": 8707,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "MachineLearning_Python",
+      "owner": "lawlite19",
+      "stars": 8580,
+      "language": "Python"
+    },
+    {
+      "name": "Machine-Learning-Collection",
+      "owner": "aladdinpersson",
+      "stars": 8487,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-cheat-sheet",
+      "owner": "soulmachine",
+      "stars": 8042,
+      "language": "TeX"
+    },
+    {
+      "name": "machine-learning-roadmap",
+      "owner": "mrdbourke",
+      "stars": 7893,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-yearning-cn",
+      "owner": "deeplearning-ai",
+      "stars": 7845,
+      "language": "CSS"
+    },
+    {
+      "name": "Machine-Learning-Specialization-Coursera",
+      "owner": "greyhatguy007",
+      "stars": 7792,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Machine-learning-learning-notes",
+      "owner": "Vay-keen",
+      "stars": 7762,
+      "language": "Unknown"
+    },
+    {
+      "name": "Learn_Machine_Learning_in_3_Months",
+      "owner": "llSourcell",
+      "stars": 7604,
+      "language": "Unknown"
+    },
+    {
+      "name": "industry-machine-learning",
+      "owner": "firmai",
+      "stars": 7485,
+      "language": "Jupyter Notebook"
+    }
+  ],
+  "logical_and": [
+    {
+      "name": "tensorflow",
+      "owner": "tensorflow",
+      "stars": 197103,
+      "language": "C++"
+    },
+    {
+      "name": "transformers",
+      "owner": "huggingface",
+      "stars": 164278,
+      "language": "Python"
+    },
+    {
+      "name": "ML-For-Beginners",
+      "owner": "microsoft",
+      "stars": 89619,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "funNLP",
+      "owner": "fighting41love",
+      "stars": 82567,
+      "language": "Python"
+    },
+    {
+      "name": "awesome-machine-learning",
+      "owner": "josephmisiti",
+      "stars": 74087,
+      "language": "Python"
+    },
+    {
+      "name": "scikit-learn",
+      "owner": "scikit-learn",
+      "stars": 66981,
+      "language": "Python"
+    },
+    {
+      "name": "gradio",
+      "owner": "gradio-app",
+      "stars": 43393,
+      "language": "Python"
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "owner": "ashishpatel26",
+      "stars": 36415,
+      "language": "Unknown"
+    },
+    {
+      "name": "C-Plus-Plus",
+      "owner": "TheAlgorithms",
+      "stars": 34588,
+      "language": "C++"
+    },
+    {
+      "name": "netron",
+      "owner": "lutzroeder",
+      "stars": 33370,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ML-From-Scratch",
+      "owner": "eriklindernoren",
+      "stars": 32499,
+      "language": "Python"
+    },
+    {
+      "name": "applied-ml",
+      "owner": "eugeneyan",
+      "stars": 30069,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-software-engineers",
+      "owner": "ZuzooVn",
+      "stars": 28864,
+      "language": "Unknown"
+    },
+    {
+      "name": "linkedin-skill-assessments-quizzes",
+      "owner": "Ebazhanov",
+      "stars": 28803,
+      "language": "Python"
+    },
+    {
+      "name": "cs249r_book",
+      "owner": "harvard-edge",
+      "stars": 27963,
+      "language": "Python"
+    },
+    {
+      "name": "shap",
+      "owner": "shap",
+      "stars": 25693,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "homemade-machine-learning",
+      "owner": "trekhleb",
+      "stars": 24771,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Paddle",
+      "owner": "PaddlePaddle",
+      "stars": 24059,
+      "language": "C++"
+    },
+    {
+      "name": "best-of-ml-python",
+      "owner": "lukasmasuch",
+      "stars": 23721,
+      "language": "Unknown"
+    },
+    {
+      "name": "C",
+      "owner": "TheAlgorithms",
+      "stars": 22332,
+      "language": "C"
+    },
+    {
+      "name": "onnx",
+      "owner": "onnx",
+      "stars": 21337,
+      "language": "Python"
+    },
+    {
+      "name": "rasa",
+      "owner": "RasaHQ",
+      "stars": 21296,
+      "language": "Python"
+    },
+    {
+      "name": "video2x",
+      "owner": "k4yt3x",
+      "stars": 20997,
+      "language": "C++"
+    },
+    {
+      "name": "awesome-production-machine-learning",
+      "owner": "EthicalML",
+      "stars": 20856,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-trading",
+      "owner": "stefan-jansen",
+      "stars": 20558,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "stanford-cs-229-machine-learning",
+      "owner": "afshinea",
+      "stars": 20133,
+      "language": "Unknown"
+    },
+    {
+      "name": "ml-agents",
+      "owner": "Unity-Technologies",
+      "stars": 19640,
+      "language": "C#"
+    },
+    {
+      "name": "LightGBM",
+      "owner": "lightgbm-org",
+      "stars": 18701,
+      "language": "C++"
+    },
+    {
+      "name": "ml-engineering",
+      "owner": "stas00",
+      "stars": 18667,
+      "language": "Python"
+    },
+    {
+      "name": "Machine-Learning-Tutorials",
+      "owner": "ujjwalkarn",
+      "stars": 18119,
+      "language": "Unknown"
+    },
+    {
+      "name": "ML-NLP",
+      "owner": "NLP-LOVE",
+      "stars": 17795,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "brpc",
+      "owner": "apache",
+      "stars": 17585,
+      "language": "C++"
+    },
+    {
+      "name": "ML-YouTube-Courses",
+      "owner": "dair-ai",
+      "stars": 17379,
+      "language": "Unknown"
+    },
+    {
+      "name": "numpy-ml",
+      "owner": "ddbourgin",
+      "stars": 16333,
+      "language": "Python"
+    },
+    {
+      "name": "transformers.js",
+      "owner": "huggingface",
+      "stars": 16262,
+      "language": "JavaScript"
+    },
+    {
+      "name": "mml-book.github.io",
+      "owner": "mml-book",
+      "stars": 15900,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "kubeflow",
+      "owner": "kubeflow",
+      "stars": 15824,
+      "language": "Unknown"
+    },
+    {
+      "name": "cheatsheets-ai",
+      "owner": "kailashahirwar",
+      "stars": 15428,
+      "language": "Unknown"
+    },
+    {
+      "name": "ggml",
+      "owner": "ggml-org",
+      "stars": 15211,
+      "language": "C++"
+    },
+    {
+      "name": "Qix",
+      "owner": "ty4z2008",
+      "stars": 15190,
+      "language": "Unknown"
+    },
+    {
+      "name": "imgaug",
+      "owner": "aleju",
+      "stars": 14739,
+      "language": "Python"
+    },
+    {
+      "name": "bullet3",
+      "owner": "bulletphysics",
+      "stars": 14683,
+      "language": "C++"
+    },
+    {
+      "name": "ChatterBot",
+      "owner": "gunthercox",
+      "stars": 14509,
+      "language": "Python"
+    },
+    {
+      "name": "dlib",
+      "owner": "davisking",
+      "stars": 14432,
+      "language": "C++"
+    },
+    {
+      "name": "nni",
+      "owner": "microsoft",
+      "stars": 14363,
+      "language": "Python"
+    },
+    {
+      "name": "mit-deep-learning-book-pdf",
+      "owner": "janishar",
+      "stars": 14202,
+      "language": "Java"
+    },
+    {
+      "name": "ivy",
+      "owner": "unifyai",
+      "stars": 14171,
+      "language": "Python"
+    },
+    {
+      "name": "handson-ml3",
+      "owner": "ageron",
+      "stars": 13961,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "machine-learning-zoomcamp",
+      "owner": "DataTalksClub",
+      "stars": 13960,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "tvm",
+      "owner": "apache",
+      "stars": 13671,
+      "language": "Python"
+    },
+    {
+      "name": "Ai-Learn",
+      "owner": "tangyudi",
+      "stars": 13272,
+      "language": "Unknown"
+    },
+    {
+      "name": "deep-learning-drizzle",
+      "owner": "kmario23",
+      "stars": 12933,
+      "language": "HTML"
+    },
+    {
+      "name": "machine-learning-interview",
+      "owner": "khangich",
+      "stars": 12784,
+      "language": "Unknown"
+    },
+    {
+      "name": "python-machine-learning-book",
+      "owner": "rasbt",
+      "stars": 12640,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "predictionio",
+      "owner": "apache",
+      "stars": 12519,
+      "language": "Scala"
+    },
+    {
+      "name": "lime",
+      "owner": "marcotcr",
+      "stars": 12165,
+      "language": "JavaScript"
+    },
+    {
+      "name": "dive-into-machine-learning",
+      "owner": "dive-into-machine-learning",
+      "stars": 11391,
+      "language": "Unknown"
+    },
+    {
+      "name": "MLAlgorithms",
+      "owner": "rushter",
+      "stars": 11168,
+      "language": "Python"
+    },
+    {
+      "name": "turicreate",
+      "owner": "apple",
+      "stars": 11160,
+      "language": "C++"
+    },
+    {
+      "name": "amazon-sagemaker-examples",
+      "owner": "aws",
+      "stars": 10979,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "A-Curated-List-of-ML-System-Design-Case-Studies",
+      "owner": "Engineer1999",
+      "stars": 10947,
+      "language": "Unknown"
+    },
+    {
+      "name": "dolly",
+      "owner": "databrickslabs",
+      "stars": 10804,
+      "language": "Python"
+    },
+    {
+      "name": "doccano",
+      "owner": "doccano",
+      "stars": 10750,
+      "language": "Python"
+    },
+    {
+      "name": "mlcourse.ai",
+      "owner": "Yorko",
+      "stars": 10690,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-systems-design",
+      "owner": "chiphuyen",
+      "stars": 10535,
+      "language": "HTML"
+    },
+    {
+      "name": "Machine-Learning",
+      "owner": "Jack-Cherish",
+      "stars": 10371,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-notes",
+      "owner": "roboticcam",
+      "stars": 10336,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "3D-Machine-Learning",
+      "owner": "timzhang642",
+      "stars": 10192,
+      "language": "Unknown"
+    },
+    {
+      "name": "tpot",
+      "owner": "EpistasisLab",
+      "stars": 10051,
+      "language": "Jupyter Notebook"
+    }
+  ],
+  "logical_or_not": [
+    {
+      "name": "tensorflow",
+      "owner": "tensorflow",
+      "stars": 197103,
+      "language": "C++"
+    },
+    {
+      "name": "transformers",
+      "owner": "huggingface",
+      "stars": 164278,
+      "language": "Python"
+    },
+    {
+      "name": "awesome-machine-learning",
+      "owner": "josephmisiti",
+      "stars": 74087,
+      "language": "Python"
+    },
+    {
+      "name": "scikit-learn",
+      "owner": "scikit-learn",
+      "stars": 66981,
+      "language": "Python"
+    },
+    {
+      "name": "gradio",
+      "owner": "gradio-app",
+      "stars": 43393,
+      "language": "Python"
+    },
+    {
+      "name": "C-Plus-Plus",
+      "owner": "TheAlgorithms",
+      "stars": 34588,
+      "language": "C++"
+    },
+    {
+      "name": "ML-From-Scratch",
+      "owner": "eriklindernoren",
+      "stars": 32499,
+      "language": "Python"
+    },
+    {
+      "name": "linkedin-skill-assessments-quizzes",
+      "owner": "Ebazhanov",
+      "stars": 28803,
+      "language": "Python"
+    },
+    {
+      "name": "cs249r_book",
+      "owner": "harvard-edge",
+      "stars": 27963,
+      "language": "Python"
+    },
+    {
+      "name": "Paddle",
+      "owner": "PaddlePaddle",
+      "stars": 24059,
+      "language": "C++"
+    },
+    {
+      "name": "onnx",
+      "owner": "onnx",
+      "stars": 21337,
+      "language": "Python"
+    },
+    {
+      "name": "rasa",
+      "owner": "RasaHQ",
+      "stars": 21296,
+      "language": "Python"
+    },
+    {
+      "name": "video2x",
+      "owner": "k4yt3x",
+      "stars": 20997,
+      "language": "C++"
+    },
+    {
+      "name": "LightGBM",
+      "owner": "lightgbm-org",
+      "stars": 18701,
+      "language": "C++"
+    },
+    {
+      "name": "ml-engineering",
+      "owner": "stas00",
+      "stars": 18667,
+      "language": "Python"
+    },
+    {
+      "name": "brpc",
+      "owner": "apache",
+      "stars": 17585,
+      "language": "C++"
+    },
+    {
+      "name": "numpy-ml",
+      "owner": "ddbourgin",
+      "stars": 16333,
+      "language": "Python"
+    },
+    {
+      "name": "ggml",
+      "owner": "ggml-org",
+      "stars": 15211,
+      "language": "C++"
+    },
+    {
+      "name": "imgaug",
+      "owner": "aleju",
+      "stars": 14739,
+      "language": "Python"
+    },
+    {
+      "name": "bullet3",
+      "owner": "bulletphysics",
+      "stars": 14683,
+      "language": "C++"
+    },
+    {
+      "name": "ChatterBot",
+      "owner": "gunthercox",
+      "stars": 14509,
+      "language": "Python"
+    },
+    {
+      "name": "dlib",
+      "owner": "davisking",
+      "stars": 14432,
+      "language": "C++"
+    },
+    {
+      "name": "nni",
+      "owner": "microsoft",
+      "stars": 14363,
+      "language": "Python"
+    },
+    {
+      "name": "ivy",
+      "owner": "unifyai",
+      "stars": 14171,
+      "language": "Python"
+    },
+    {
+      "name": "tvm",
+      "owner": "apache",
+      "stars": 13671,
+      "language": "Python"
+    },
+    {
+      "name": "cleanlab",
+      "owner": "cleanlab",
+      "stars": 11630,
+      "language": "Python"
+    },
+    {
+      "name": "MLAlgorithms",
+      "owner": "rushter",
+      "stars": 11168,
+      "language": "Python"
+    },
+    {
+      "name": "turicreate",
+      "owner": "apple",
+      "stars": 11160,
+      "language": "C++"
+    },
+    {
+      "name": "dolly",
+      "owner": "databrickslabs",
+      "stars": 10804,
+      "language": "Python"
+    },
+    {
+      "name": "doccano",
+      "owner": "doccano",
+      "stars": 10750,
+      "language": "Python"
+    },
+    {
+      "name": "mlcourse.ai",
+      "owner": "Yorko",
+      "stars": 10690,
+      "language": "Python"
+    },
+    {
+      "name": "sktime",
+      "owner": "sktime",
+      "stars": 9956,
+      "language": "Python"
+    },
+    {
+      "name": "catboost",
+      "owner": "catboost",
+      "stars": 9068,
+      "language": "C++"
+    },
+    {
+      "name": "pattern",
+      "owner": "clips",
+      "stars": 8860,
+      "language": "Python"
+    },
+    {
+      "name": "vowpal_wabbit",
+      "owner": "VowpalWabbit",
+      "stars": 8705,
+      "language": "C++"
+    },
+    {
+      "name": "MachineLearning_Python",
+      "owner": "lawlite19",
+      "stars": 8580,
+      "language": "Python"
+    },
+    {
+      "name": "Machine-Learning-Collection",
+      "owner": "aladdinpersson",
+      "stars": 8487,
+      "language": "Python"
+    },
+    {
+      "name": "auto-sklearn",
+      "owner": "automl",
+      "stars": 8126,
+      "language": "Python"
+    }
+  ],
+  "logical_mixed": [
+    {
+      "name": "tensorflow",
+      "owner": "tensorflow",
+      "stars": 197103,
+      "language": "C++"
+    },
+    {
+      "name": "transformers",
+      "owner": "huggingface",
+      "stars": 164278,
+      "language": "Python"
+    },
+    {
+      "name": "ML-For-Beginners",
+      "owner": "microsoft",
+      "stars": 89619,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "funNLP",
+      "owner": "fighting41love",
+      "stars": 82567,
+      "language": "Python"
+    },
+    {
+      "name": "awesome-machine-learning",
+      "owner": "josephmisiti",
+      "stars": 74087,
+      "language": "Python"
+    },
+    {
+      "name": "scikit-learn",
+      "owner": "scikit-learn",
+      "stars": 66981,
+      "language": "Python"
+    },
+    {
+      "name": "gradio",
+      "owner": "gradio-app",
+      "stars": 43393,
+      "language": "Python"
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "owner": "ashishpatel26",
+      "stars": 36415,
+      "language": "Unknown"
+    },
+    {
+      "name": "C-Plus-Plus",
+      "owner": "TheAlgorithms",
+      "stars": 34588,
+      "language": "C++"
+    },
+    {
+      "name": "netron",
+      "owner": "lutzroeder",
+      "stars": 33370,
+      "language": "JavaScript"
+    },
+    {
+      "name": "ML-From-Scratch",
+      "owner": "eriklindernoren",
+      "stars": 32499,
+      "language": "Python"
+    },
+    {
+      "name": "applied-ml",
+      "owner": "eugeneyan",
+      "stars": 30069,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-software-engineers",
+      "owner": "ZuzooVn",
+      "stars": 28864,
+      "language": "Unknown"
+    },
+    {
+      "name": "linkedin-skill-assessments-quizzes",
+      "owner": "Ebazhanov",
+      "stars": 28803,
+      "language": "Python"
+    },
+    {
+      "name": "cs249r_book",
+      "owner": "harvard-edge",
+      "stars": 27963,
+      "language": "Python"
+    },
+    {
+      "name": "shap",
+      "owner": "shap",
+      "stars": 25693,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "homemade-machine-learning",
+      "owner": "trekhleb",
+      "stars": 24771,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Paddle",
+      "owner": "PaddlePaddle",
+      "stars": 24059,
+      "language": "C++"
+    },
+    {
+      "name": "best-of-ml-python",
+      "owner": "lukasmasuch",
+      "stars": 23721,
+      "language": "Unknown"
+    },
+    {
+      "name": "C",
+      "owner": "TheAlgorithms",
+      "stars": 22332,
+      "language": "C"
+    },
+    {
+      "name": "onnx",
+      "owner": "onnx",
+      "stars": 21337,
+      "language": "Python"
+    },
+    {
+      "name": "rasa",
+      "owner": "RasaHQ",
+      "stars": 21296,
+      "language": "Python"
+    },
+    {
+      "name": "video2x",
+      "owner": "k4yt3x",
+      "stars": 20997,
+      "language": "C++"
+    },
+    {
+      "name": "awesome-production-machine-learning",
+      "owner": "EthicalML",
+      "stars": 20856,
+      "language": "Unknown"
+    },
+    {
+      "name": "machine-learning-for-trading",
+      "owner": "stefan-jansen",
+      "stars": 20558,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "stanford-cs-229-machine-learning",
+      "owner": "afshinea",
+      "stars": 20133,
+      "language": "Unknown"
+    },
+    {
+      "name": "ml-agents",
+      "owner": "Unity-Technologies",
+      "stars": 19640,
+      "language": "C#"
+    },
+    {
+      "name": "LightGBM",
+      "owner": "lightgbm-org",
+      "stars": 18701,
+      "language": "C++"
+    },
+    {
+      "name": "ml-engineering",
+      "owner": "stas00",
+      "stars": 18667,
+      "language": "Python"
+    },
+    {
+      "name": "Machine-Learning-Tutorials",
+      "owner": "ujjwalkarn",
+      "stars": 18119,
+      "language": "Unknown"
+    },
+    {
+      "name": "ML-NLP",
+      "owner": "NLP-LOVE",
+      "stars": 17795,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "brpc",
+      "owner": "apache",
+      "stars": 17585,
+      "language": "C++"
+    },
+    {
+      "name": "ML-YouTube-Courses",
+      "owner": "dair-ai",
+      "stars": 17379,
+      "language": "Unknown"
+    },
+    {
+      "name": "numpy-ml",
+      "owner": "ddbourgin",
+      "stars": 16333,
+      "language": "Python"
+    },
+    {
+      "name": "transformers.js",
+      "owner": "huggingface",
+      "stars": 16262,
+      "language": "JavaScript"
+    },
+    {
+      "name": "mml-book.github.io",
+      "owner": "mml-book",
+      "stars": 15900,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "kubeflow",
+      "owner": "kubeflow",
+      "stars": 15824,
+      "language": "Unknown"
+    },
+    {
+      "name": "cheatsheets-ai",
+      "owner": "kailashahirwar",
+      "stars": 15428,
+      "language": "Unknown"
+    },
+    {
+      "name": "ggml",
+      "owner": "ggml-org",
+      "stars": 15211,
+      "language": "C++"
+    },
+    {
+      "name": "Qix",
+      "owner": "ty4z2008",
+      "stars": 15190,
+      "language": "Unknown"
+    },
+    {
+      "name": "imgaug",
+      "owner": "aleju",
+      "stars": 14739,
+      "language": "Python"
+    },
+    {
+      "name": "bullet3",
+      "owner": "bulletphysics",
+      "stars": 14683,
+      "language": "C++"
+    },
+    {
+      "name": "ChatterBot",
+      "owner": "gunthercox",
+      "stars": 14509,
+      "language": "Python"
+    },
+    {
+      "name": "dlib",
+      "owner": "davisking",
+      "stars": 14432,
+      "language": "C++"
+    },
+    {
+      "name": "nni",
+      "owner": "microsoft",
+      "stars": 14363,
+      "language": "Python"
+    },
+    {
+      "name": "mit-deep-learning-book-pdf",
+      "owner": "janishar",
+      "stars": 14202,
+      "language": "Java"
+    },
+    {
+      "name": "ivy",
+      "owner": "unifyai",
+      "stars": 14171,
+      "language": "Python"
+    },
+    {
+      "name": "handson-ml3",
+      "owner": "ageron",
+      "stars": 13961,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "machine-learning-zoomcamp",
+      "owner": "DataTalksClub",
+      "stars": 13960,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "tvm",
+      "owner": "apache",
+      "stars": 13671,
+      "language": "Python"
+    },
+    {
+      "name": "Ai-Learn",
+      "owner": "tangyudi",
+      "stars": 13272,
+      "language": "Unknown"
+    },
+    {
+      "name": "deep-learning-drizzle",
+      "owner": "kmario23",
+      "stars": 12933,
+      "language": "HTML"
+    },
+    {
+      "name": "machine-learning-interview",
+      "owner": "khangich",
+      "stars": 12784,
+      "language": "Unknown"
+    },
+    {
+      "name": "python-machine-learning-book",
+      "owner": "rasbt",
+      "stars": 12640,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "predictionio",
+      "owner": "apache",
+      "stars": 12519,
+      "language": "Scala"
+    },
+    {
+      "name": "lime",
+      "owner": "marcotcr",
+      "stars": 12165,
+      "language": "JavaScript"
+    },
+    {
+      "name": "cleanlab",
+      "owner": "cleanlab",
+      "stars": 11630,
+      "language": "Python"
+    },
+    {
+      "name": "dive-into-machine-learning",
+      "owner": "dive-into-machine-learning",
+      "stars": 11391,
+      "language": "Unknown"
+    },
+    {
+      "name": "MLAlgorithms",
+      "owner": "rushter",
+      "stars": 11168,
+      "language": "Python"
+    },
+    {
+      "name": "turicreate",
+      "owner": "apple",
+      "stars": 11160,
+      "language": "C++"
+    },
+    {
+      "name": "amazon-sagemaker-examples",
+      "owner": "aws",
+      "stars": 10979,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "A-Curated-List-of-ML-System-Design-Case-Studies",
+      "owner": "Engineer1999",
+      "stars": 10947,
+      "language": "Unknown"
+    },
+    {
+      "name": "dolly",
+      "owner": "databrickslabs",
+      "stars": 10804,
+      "language": "Python"
+    },
+    {
+      "name": "doccano",
+      "owner": "doccano",
+      "stars": 10750,
+      "language": "Python"
+    },
+    {
+      "name": "mlcourse.ai",
+      "owner": "Yorko",
+      "stars": 10690,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-systems-design",
+      "owner": "chiphuyen",
+      "stars": 10535,
+      "language": "HTML"
+    },
+    {
+      "name": "Machine-Learning",
+      "owner": "Jack-Cherish",
+      "stars": 10371,
+      "language": "Python"
+    },
+    {
+      "name": "machine-learning-notes",
+      "owner": "roboticcam",
+      "stars": 10336,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "3D-Machine-Learning",
+      "owner": "timzhang642",
+      "stars": 10192,
+      "language": "Unknown"
+    },
+    {
+      "name": "tpot",
+      "owner": "EpistasisLab",
+      "stars": 10051,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "machine_learning_examples",
+      "owner": "lazyprogrammer",
+      "stars": 8911,
+      "language": "Python"
+    }
+  ],
+  "top_10_by_stars": [
+    {
+      "name": "tensorflow",
+      "owner": "tensorflow",
+      "stars": 197103,
+      "forks": 76079,
+      "language": "C++"
+    },
+    {
+      "name": "transformers",
+      "owner": "huggingface",
+      "stars": 164278,
+      "forks": 34299,
+      "language": "Python"
+    },
+    {
+      "name": "ML-For-Beginners",
+      "owner": "microsoft",
+      "stars": 89619,
+      "forks": 22006,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "funNLP",
+      "owner": "fighting41love",
+      "stars": 82567,
+      "forks": 15267,
+      "language": "Python"
+    },
+    {
+      "name": "awesome-machine-learning",
+      "owner": "josephmisiti",
+      "stars": 74087,
+      "forks": 15615,
+      "language": "Python"
+    },
+    {
+      "name": "scikit-learn",
+      "owner": "scikit-learn",
+      "stars": 66981,
+      "forks": 27294,
+      "language": "Python"
+    },
+    {
+      "name": "gradio",
+      "owner": "gradio-app",
+      "stars": 43393,
+      "forks": 3579,
+      "language": "Python"
+    },
+    {
+      "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "owner": "ashishpatel26",
+      "stars": 36415,
+      "forks": 7446,
+      "language": "Unknown"
+    },
+    {
+      "name": "C-Plus-Plus",
+      "owner": "TheAlgorithms",
+      "stars": 34588,
+      "forks": 7850,
+      "language": "C++"
+    },
+    {
+      "name": "netron",
+      "owner": "lutzroeder",
+      "stars": 33370,
+      "forks": 3172,
+      "language": "JavaScript"
+    }
+  ],
+  "total_repository_count": [
+    {
+      "total_repositories": 100
+    }
+  ],
+  "average_stars": [
+    {
+      "average_stars": 20813.38
+    }
+  ],
+  "language_groups_more_than_5": [
+    {
+      "language": "Python",
+      "repository_count": 30,
+      "average_stars": 26558.1
+    },
+    {
+      "language": "Unknown",
+      "repository_count": 23,
+      "average_stars": 15638.61
+    },
+    {
+      "language": "Jupyter Notebook",
+      "repository_count": 19,
+      "average_stars": 17094.16
+    },
+    {
+      "language": "C++",
+      "repository_count": 12,
+      "average_stars": 32191.0
+    }
+  ],
+  "monthly_creation_trends": [
+    {
+      "creation_month": "2009-07",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2010-08",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2010-12",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2011-04",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2011-05",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2013-01",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2013-05",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2013-12",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2014-01",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2014-03",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2014-04",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2014-07",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2014-09",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2015-02",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2015-07",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2015-08",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2015-09",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2015-11",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2016-03",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2016-05",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2016-07",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2016-08",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2016-10",
+      "repository_count": 5
+    },
+    {
+      "creation_month": "2016-11",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2016-12",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2017-02",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2017-03",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2017-04",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2017-05",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2017-07",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2017-08",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2017-09",
+      "repository_count": 3
+    },
+    {
+      "creation_month": "2017-10",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2017-11",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2017-12",
+      "repository_count": 3
+    },
+    {
+      "creation_month": "2018-02",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2018-03",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2018-05",
+      "repository_count": 4
+    },
+    {
+      "creation_month": "2018-06",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2018-08",
+      "repository_count": 3
+    },
+    {
+      "creation_month": "2018-10",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2018-11",
+      "repository_count": 3
+    },
+    {
+      "creation_month": "2018-12",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2019-01",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2019-03",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2019-04",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2019-05",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2019-07",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2019-11",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2020-01",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2020-03",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2020-04",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2020-07",
+      "repository_count": 3
+    },
+    {
+      "creation_month": "2020-08",
+      "repository_count": 2
+    },
+    {
+      "creation_month": "2020-09",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2020-11",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2021-01",
+      "repository_count": 3
+    },
+    {
+      "creation_month": "2021-02",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2021-03",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2021-06",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2022-02",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2022-06",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2022-09",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2023-02",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2023-03",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2023-09",
+      "repository_count": 1
+    },
+    {
+      "creation_month": "2024-05",
+      "repository_count": 1
+    }
+  ],
+  "database_verification": {
+    "database": "github_projects.db",
+    "table": "Repositories",
+    "row_count": 100,
+    "columns": [
+      "name",
+      "owner",
+      "language",
+      "stars",
+      "forks",
+      "watchers",
+      "open_issues",
+      "created_date",
+      "updated_date",
+      "license"
+    ]
+  }
+}

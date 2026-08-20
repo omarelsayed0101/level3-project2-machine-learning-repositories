@@ -1,0 +1,55 @@
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Initialized empty Git repository in /home/ubuntu/github_ml_project/.git/
+
+$ git status --short
+[31m??[m .gitignore
+[31m??[m README.md
+[31m??[m analysis_findings.md
+[31m??[m analyze_data.py
+[31m??[m charts/
+[31m??[m collect_data.py
+[31m??[m collection_summary.json
+[31m??[m ethics_reflection.md
+[31m??[m evidence_init_status.txt
+[31m??[m github_api_response.json
+[31m??[m github_projects.csv
+[31m??[m github_projects.db
+[31m??[m project_workflow.ipynb
+[31m??[m requirements.txt
+[31m??[m sql_results.json
+[31m??[m visual_qc.md
+
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.gitignore[m
+	[31mREADME.md[m
+	[31manalysis_findings.md[m
+	[31manalyze_data.py[m
+	[31mcharts/[m
+	[31mcollect_data.py[m
+	[31mcollection_summary.json[m
+	[31methics_reflection.md[m
+	[31mevidence_init_status.txt[m
+	[31mgithub_api_response.json[m
+	[31mgithub_projects.csv[m
+	[31mgithub_projects.db[m
+	[31mproject_workflow.ipynb[m
+	[31mrequirements.txt[m
+	[31msql_results.json[m
+	[31mvisual_qc.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)

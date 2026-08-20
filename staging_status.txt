@@ -1,0 +1,49 @@
+$ git status --short
+[32mA[m  .gitignore
+[32mA[m  README.md
+[32mA[m  analysis_findings.md
+[32mA[m  analyze_data.py
+[32mA[m  charts/repository_creation_trends.png
+[32mA[m  charts/top_10_repositories_by_stars.png
+[32mA[m  collect_data.py
+[32mA[m  collection_summary.json
+[32mA[m  ethics_reflection.md
+[32mA[m  evidence/init_status.txt
+[32mA[m  github_api_response.json
+[32mA[m  github_projects.csv
+[32mA[m  github_projects.db
+[32mA[m  project_workflow.ipynb
+[32mA[m  requirements.txt
+[32mA[m  sql_results.json
+[32mA[m  visual_qc.md
+[31m??[m evidence/staging_status.txt
+
+$ git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   .gitignore[m
+	[32mnew file:   README.md[m
+	[32mnew file:   analysis_findings.md[m
+	[32mnew file:   analyze_data.py[m
+	[32mnew file:   charts/repository_creation_trends.png[m
+	[32mnew file:   charts/top_10_repositories_by_stars.png[m
+	[32mnew file:   collect_data.py[m
+	[32mnew file:   collection_summary.json[m
+	[32mnew file:   ethics_reflection.md[m
+	[32mnew file:   evidence/init_status.txt[m
+	[32mnew file:   github_api_response.json[m
+	[32mnew file:   github_projects.csv[m
+	[32mnew file:   github_projects.db[m
+	[32mnew file:   project_workflow.ipynb[m
+	[32mnew file:   requirements.txt[m
+	[32mnew file:   sql_results.json[m
+	[32mnew file:   visual_qc.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mevidence/staging_status.txt[m
+

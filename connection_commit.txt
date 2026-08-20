@@ -1,0 +1,5 @@
+[main 8a41de1] Add repository connection evidence
+ 3 files changed, 91 insertions(+)
+ create mode 100644 evidence/commit_output.txt
+ create mode 100644 evidence/repository_inspection.json
+ create mode 100644 evidence/staging_status.txt
