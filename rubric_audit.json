@@ -1,0 +1,192 @@
+{
+  "passed": 37,
+  "total": 37,
+  "all_passed": true,
+  "checks": [
+    {
+      "criterion": "Required artifact: collect_data.py",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: analyze_data.py",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: github_api_response.json",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: github_projects.csv",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: github_projects.db",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: collection_summary.json",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: sql_results.json",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: analysis_findings.md",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: ethics_reflection.md",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: project_workflow.ipynb",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: README.md",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "Required artifact: visual_qc.md",
+      "passed": true,
+      "detail": "File exists"
+    },
+    {
+      "criterion": "CSV contains records",
+      "passed": true,
+      "detail": "100 rows"
+    },
+    {
+      "criterion": "CSV contains only required prepared columns",
+      "passed": true,
+      "detail": "['name', 'owner', 'language', 'stars', 'forks', 'watchers', 'open_issues', 'created_date', 'updated_date', 'license']"
+    },
+    {
+      "criterion": "Missing values handled",
+      "passed": true,
+      "detail": "0 missing values after cleaning"
+    },
+    {
+      "criterion": "Duplicate records removed",
+      "passed": true,
+      "detail": "0 duplicate rows"
+    },
+    {
+      "criterion": "Created dates converted",
+      "passed": true,
+      "detail": "All created dates parse successfully"
+    },
+    {
+      "criterion": "Updated dates converted",
+      "passed": true,
+      "detail": "All updated dates parse successfully"
+    },
+    {
+      "criterion": "CSV saved and verified",
+      "passed": true,
+      "detail": "{'reloaded_successfully': True, 'reloaded_shape': [100, 10], 'reloaded_missing_values': 0, 'file': 'github_projects.csv'}"
+    },
+    {
+      "criterion": "GitHub API source recorded",
+      "passed": true,
+      "detail": "https://api.github.com/search/repositories?q=machine+learning&sort=stars&order=desc&per_page=100"
+    },
+    {
+      "criterion": "SQLite Repositories table created",
+      "passed": true,
+      "detail": "['Repositories']"
+    },
+    {
+      "criterion": "SQLite row count matches CSV",
+      "passed": true,
+      "detail": "SQLite=100, CSV=100"
+    },
+    {
+      "criterion": "Filtering and searching queries present",
+      "passed": true,
+      "detail": "Required result keys exist"
+    },
+    {
+      "criterion": "AND, OR, and NOT queries present",
+      "passed": true,
+      "detail": "Logical operator result keys exist"
+    },
+    {
+      "criterion": "Top 10 sorting and limiting query present",
+      "passed": true,
+      "detail": "10 rows returned"
+    },
+    {
+      "criterion": "COUNT aggregate is correct",
+      "passed": true,
+      "detail": "[{'total_repositories': 100}]"
+    },
+    {
+      "criterion": "AVG aggregate is present",
+      "passed": true,
+      "detail": "[{'average_stars': 20813.38}]"
+    },
+    {
+      "criterion": "GROUP BY and HAVING are correct",
+      "passed": true,
+      "detail": "[{'language': 'Python', 'repository_count': 30, 'average_stars': 26558.1}, {'language': 'Unknown', 'repository_count': 23, 'average_stars': 15638.61}, {'language': 'Jupyter Notebook', 'repository_count': 19, 'average_stars': 17094.16}, {'language': 'C++', 'repository_count': 12, 'average_stars': 32191.0}]"
+    },
+    {
+      "criterion": "Popularity visualization created",
+      "passed": true,
+      "detail": "Top-10 PNG exists"
+    },
+    {
+      "criterion": "Creation-trend visualization created",
+      "passed": true,
+      "detail": "Trend PNG exists"
+    },
+    {
+      "criterion": "Results interpreted",
+      "passed": true,
+      "detail": "Analysis findings file is non-empty"
+    },
+    {
+      "criterion": "Ethics reflection answers all required questions",
+      "passed": true,
+      "detail": "Verification, documentation, and missing/inaccurate data topics are present"
+    },
+    {
+      "criterion": "Git repository initialized",
+      "passed": true,
+      "detail": "/home/ubuntu/github_ml_project/.git"
+    },
+    {
+      "criterion": "Git initialization evidence provided",
+      "passed": true,
+      "detail": "init_status.txt exists"
+    },
+    {
+      "criterion": "Staging evidence provided",
+      "passed": true,
+      "detail": "staging_status.txt exists"
+    },
+    {
+      "criterion": "Commit evidence provided",
+      "passed": true,
+      "detail": "commit_output.txt exists"
+    },
+    {
+      "criterion": "GitHub connection evidence provided",
+      "passed": true,
+      "detail": "repository_inspection.json exists"
+    }
+  ]
+}
